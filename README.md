@@ -127,5 +127,5 @@ REST APIs / DevOps Practices 🛠️
 Container Orchestration Fundamentals 🚢
 
 🧳 Author
-_**Anant Sharma**_
+Anant Sharma
 Software Developer | Backend | Python | AI-Driven Systems
