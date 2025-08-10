@@ -55,7 +55,7 @@ Python 3.10+
 Git
 
 # 1️⃣ Clone the repo
-git clone https://github.com/yourusername/FinWatch.git
+git clone https://github.com/codelinechef/Djnago-monitoring-Stack-with-prometheus-and-Grafana.git
 cd FinWatch_project
 
 # 2️⃣ Create .env file
